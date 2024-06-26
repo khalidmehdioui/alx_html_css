@@ -1,0 +1,15 @@
+/* Reset some default browser styling */
+body, html {
+    margin: 0;
+    padding: 0;
+}
+
+/* Example styles */
+body {
+    font-family: 'Source Sans Pro', sans-serif; /* Example font */
+    background-color: #f0f0f0;
+    color: #333;
+    line-height: 1.6;
+}
+
+/* Add more styles as per your project's requirements */
